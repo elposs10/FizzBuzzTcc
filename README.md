@@ -18,7 +18,7 @@ Execute maven command line: mvn install
 Execute maven command line: mvn test
 
 ## Built With
-* [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - JDK 11.0.16
+* [Java](https://www.oracle.com/java/technologies/downloads/#java11) - JDK 11.0.16
 * [Spring Boot](https://spring.io/blog/2019/04/04/spring-boot-2-1-4-released) - Base Framework 2.7.10 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [JUnit](https://junit.org/junit4/) - Tests Development
