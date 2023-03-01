@@ -5,10 +5,6 @@ For multiples of three, it prints “Fizz” instead of the number
 For the multiples of five, it prints “Buzz”
 For numbers which are multiples of both three and five, it prints “FizzBuzz”
 
-## Command Line Usage
-
-java -jar maya-fizzbuzz.jar
-
 ## Deployment
 
 Execute maven command line: mvn install
